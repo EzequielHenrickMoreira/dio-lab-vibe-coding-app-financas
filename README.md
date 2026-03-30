@@ -1,4 +1,4 @@
-# 💸 App de Finanças Pessoais do Venilton com Vibe Coding
+App de finanças do Ezequiel
 
 Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
